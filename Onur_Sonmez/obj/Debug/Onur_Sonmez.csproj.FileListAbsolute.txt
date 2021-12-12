@@ -1,0 +1,10 @@
+C:\Users\Onur\OneDrive\Masaüstü\Onur_Sonmez\Onur_Sonmez\bin\Debug\Onur_Sonmez.exe.config
+C:\Users\Onur\OneDrive\Masaüstü\Onur_Sonmez\Onur_Sonmez\bin\Debug\Onur_Sonmez.exe
+C:\Users\Onur\OneDrive\Masaüstü\Onur_Sonmez\Onur_Sonmez\bin\Debug\Onur_Sonmez.pdb
+C:\Users\Onur\OneDrive\Masaüstü\Onur_Sonmez\Onur_Sonmez\obj\Debug\Onur_Sonmez.Form1.resources
+C:\Users\Onur\OneDrive\Masaüstü\Onur_Sonmez\Onur_Sonmez\obj\Debug\Onur_Sonmez.Properties.Resources.resources
+C:\Users\Onur\OneDrive\Masaüstü\Onur_Sonmez\Onur_Sonmez\obj\Debug\Onur_Sonmez.csproj.GenerateResource.Cache
+C:\Users\Onur\OneDrive\Masaüstü\Onur_Sonmez\Onur_Sonmez\obj\Debug\Onur_Sonmez.exe
+C:\Users\Onur\OneDrive\Masaüstü\Onur_Sonmez\Onur_Sonmez\obj\Debug\Onur_Sonmez.pdb
+C:\Users\Onur\OneDrive\Masaüstü\Onur_Sonmez\Onur_Sonmez\obj\Debug\Onur_Sonmez.csproj.AssemblyReference.cache
+C:\Users\Onur\OneDrive\Masaüstü\Onur_Sonmez\Onur_Sonmez\obj\Debug\Onur_Sonmez.csproj.CoreCompileInputs.cache
